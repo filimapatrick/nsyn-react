@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Event from "./pages/Event";
-import './App.css';
+// import './App.css';
 import { FaAlignJustify } from 'react-icons/fa';
 import NavMenu from "./components/NavMenu";
 import NavBar from "./components/NavBar.jsx";
